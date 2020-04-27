@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
+baseurl = "https://www.example.com"
+title = "KENG"
+theme = "vec"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 10
+disqusShortname = ""
+googleAnalytics = ""
+
+[menu]
+  # Shown in the side menu.
+
+  [[menu.main]]
+    name = "contact"
+    weight = 1
+    url = "/contact"
+  [[menu.main]]
+    name = "post"
+    weight = 0
+    url = "/post"
+
+
+[params]
+  Keywords = "key, 关键字"
+  Description = "There are some words to describe your site"
+  Avatar = "img/chongying.png"
+  SelfIntro = "Working in Macau, seeking truth, live in shadow, no more..."
+  Email = "abc@gmail.com"
+
+  GithubID = "Your Github ID"
+  FacebookID = "Your Facebook ID"
+  LinkedInID = "Your LinkedIn ID"
+  GoogleplusID = "Your Googleplus ID"
