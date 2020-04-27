@@ -1,4 +1,5 @@
 baseurl = "https://www.example.com"
+publisDir = "docs"
 title = "KENG"
 theme = "vec"
 languageCode = "en-us"
