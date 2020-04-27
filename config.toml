@@ -1,7 +1,8 @@
-baseurl = "https://netcloudom.github.io/cabin"
-publisDir = "docs"
+baseurl = "https://github.com/netcloudom/cabin"
+
 title = "KENG"
 theme = "vec"
+publishDir = "docs"
 languageCode = "en-us"
 paginate = 10
 disqusShortname = ""
