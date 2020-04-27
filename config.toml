@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com"
+baseurl = "https://netcloudom.github.io/cabin"
 publisDir = "docs"
 title = "KENG"
 theme = "vec"
